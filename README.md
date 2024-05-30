@@ -1,4 +1,4 @@
-# Barry: A CLI for your common banking and accounting needs
+# Barry
 
 Barry is a simple CLI written in Go for performing business banking and accounting tasks. Why use a dashboard or a dedicated finance tool when you can use your terminal?
 
